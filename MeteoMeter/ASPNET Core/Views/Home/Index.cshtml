@@ -1,0 +1,34 @@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="jumbotron">
+    <h1>Mobioos MeteoMeter Backend</h1>
+    <p class="lead">Lorem ipsum.</p>
+    <p><a href="http://www.mobioos.com/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>APIs</h2>
+        <p>See available APIs documentation for either bulk load and application execution.</p>
+        <p><a class="btn btn-default" href="/swagger">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-6">
+        <h2>Basic back office editor</h2>
+        <div class="btn-group-vertical" role="group" aria-label="...">
+            @if (User.IsInRole(MeteoMeter.Backend.Security.Roles.BuiltinRoles.Admin.Key) ||
+                User.IsInRole(MeteoMeter.Backend.Security.Roles.BuiltinRoles.DataEditor.Key))
+            {
+						  <a class="btn btn-default" href="@Url.Action("Index", "Card")">Card</a>
+						  <a class="btn btn-default" href="@Url.Action("Index", "Idea")">Idea</a>
+						  <a class="btn btn-default" href="@Url.Action("Index", "Group")">Group</a>
+						  <a class="btn btn-default" href="@Url.Action("Index", "UserProfile")">UserProfile</a>
+						  <a class="btn btn-default" href="@Url.Action("Index", "Choice")">Choice</a>
+						  <a class="btn btn-default" href="@Url.Action("Index", "IdeaAnswer")">IdeaAnswer</a>
+						  <a class="btn btn-default" href="@Url.Action("Index", "Reporting")">Reporting</a>
+						  <a class="btn btn-default" href="@Url.Action("Index", "Photo")">Photo</a>
+			            }
+        </div>
+    </div>
+</div>

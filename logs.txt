@@ -1,0 +1,17 @@
+27 Apr 2018 11:49:39,504 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - running default runtime strategy for session: 5eb9538b-5a13-44be-a0d6-880fddbfc667
+27 Apr 2018 11:49:39,504 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - running manifest activity for session: 5eb9538b-5a13-44be-a0d6-880fddbfc667
+27 Apr 2018 11:50:47,429 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - running default runtime strategy for session: 638c5936-a472-4e99-95d1-1b7a3b935b68
+27 Apr 2018 11:50:47,471 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - writing aspnet core common activity for session: 638c5936-a472-4e99-95d1-1b7a3b935b68
+27 Apr 2018 11:50:48,398 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Identifier
+27 Apr 2018 11:50:48,430 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Card
+27 Apr 2018 11:50:48,500 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Idea
+27 Apr 2018 11:50:48,582 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Group
+27 Apr 2018 11:50:48,658 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: UserProfile
+27 Apr 2018 11:50:48,703 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Choice
+27 Apr 2018 11:50:48,739 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Answer
+27 Apr 2018 11:50:48,751 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: IdeaAnswer
+27 Apr 2018 11:50:48,808 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Reporting
+27 Apr 2018 11:50:48,859 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - generating entity: Photo
+27 Apr 2018 11:50:50,762 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - running default runtime strategy for session: 83e9bd9d-2dfd-4efd-929d-d0e3b44de0ab
+27 Apr 2018 11:51:06,328 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - running default runtime strategy for session: e1b6abd2-2014-4d0f-957d-ea81c80a80d9
+27 Apr 2018 11:51:06,643 INFO  5eb9538b-5a13-44be-a0d6-880fddbfc667 - Preparing source package for session : e1b6abd2-2014-4d0f-957d-ea81c80a80d9

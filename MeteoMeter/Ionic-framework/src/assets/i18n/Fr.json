@@ -1,0 +1,175 @@
+
+{
+    "closeMenu": "FermerMenu",
+
+    "idea": {
+        "createIdeaQuestionLayoutNextAction": "Next",
+        "createIdeaQuestionLayoutDiscardAction": "Discard",
+        "createIdeaQuestionLayoutUploadPictureAction": "UploadPicture",
+        "createIdeaQuestionLayoutGetDefaultPictureAction": "GetDefaultPicture",
+        "createIdeaQuestionLayoutTitle": "CreateIdea",
+        "createIdeaQuestionLayoutDescription": "CreateIdea",
+        "flowIdeaLayoutAgreeAction": "Agree",
+        "flowIdeaLayoutDisagreeAction": "Disagree",
+        "flowIdeaLayoutTitle": "FlowIdea",
+        "flowIdeaLayoutDescription": "FlowIdea",
+        "previewLayoutSaveAction": "Save",
+        "previewLayoutTitle": "Preview",
+        "previewLayoutDescription": "Preview",
+        "createIdeaSettingsLayoutToPreviewAction": "ToPreview",
+        "createIdeaSettingsLayoutTitle": "CreateIdeaSettings",
+        "createIdeaSettingsLayoutDescription": "CreateIdeaSettings",
+        "ideaConcernTitle": "Idea"
+    },
+
+    "report": {
+        "flowReportLayoutDisplayResultAction": "DisplayResult",
+        "flowReportLayoutTitle": "FlowReport",
+        "flowReportLayoutDescription": "FlowReport",
+        "reportConcernTitle": "Report"
+    },
+
+    "account": {
+        "mainLayoutGetUserAction": "GetUser",
+        "mainLayoutToEditProfileAction": "ToEditProfile",
+        "mainLayoutToManageGroupsAction": "ToManageGroups",
+        "mainLayoutToSettingsAction": "ToSettings",
+        "mainLayoutSignOutAction": "SignOut",
+        "mainLayoutTitle": "Account",
+        "mainLayoutDescription": "Account",
+        "editProfileLayoutUpdateUserAction": "UpdateUser",
+        "editProfileLayoutTitle": "Editprofile",
+        "editProfileLayoutDescription": "Editprofile",
+        "accountConcernTitle": "Account"
+    },
+
+    "manageGroups": {
+        "mainLayoutGetGroupsAction": "GetGroups",
+        "mainLayoutToCreateGroupAction": "ToCreateGroup",
+        "mainLayoutToGroupDetailsAction": "ToGroupDetails",
+        "mainLayoutDeleteAction": "Delete",
+        "mainLayoutToEditGroupAction": "ToEditGroup",
+        "mainLayoutTitle": "ManageGroups",
+        "mainLayoutDescription": "ManageGroups",
+        "createGroupModalLayoutSaveAction": "Save",
+        "createGroupModalLayoutCancelAction": "Cancel",
+        "createGroupModalLayoutToGroupDetailsAction": "ToGroupDetails",
+        "createGroupModalLayoutTitle": "CreateGroupModal",
+        "createGroupModalLayoutDescription": "CreateGroupModal",
+        "groupDetailsLayoutToAddMemberModalAction": "ToAddMemberModal",
+        "groupDetailsLayoutRemoveMemberAction": "RemoveMember",
+        "groupDetailsLayoutTitle": "GroupMemebers",
+        "groupDetailsLayoutDescription": "GroupMemebers",
+        "addMemberModalLayoutSearchUserAction": "SearchUser",
+        "addMemberModalLayoutAddMemberAction": "AddMember",
+        "addMemberModalLayoutGetMembersAction": "GetMembers",
+        "addMemberModalLayoutTitle": "AddMemberModal",
+        "addMemberModalLayoutDescription": "AddMemberModal",
+        "editGroupModalLayoutUpdateGroupAction": "UpdateGroup",
+        "editGroupModalLayoutCancelAction": "Cancel",
+        "editGroupModalLayoutTitle": "CreateGroupModal",
+        "editGroupModalLayoutDescription": "CreateGroupModal",
+        "manageGroupsConcernTitle": "ManageGroups"
+    },
+
+    "flow": {
+        "mainLayoutNextCardAction": "NextCard",
+        "mainLayoutPreviousCardAction": "PreviousCard",
+        "mainLayoutDiscardAction": "Discard",
+        "mainLayoutGetFlowCardsAction": "GetFlowCards",
+        "mainLayoutSwipeCardAction": "SwipeCard",
+        "mainLayoutTitle": "Flow",
+        "mainLayoutDescription": "Flow",
+        "flowConcernTitle": "Flow"
+    },
+
+    "highlights": {
+        "mainLayoutGetBestPostAction": "GetBestPost",
+        "mainLayoutTitle": "Highlights",
+        "mainLayoutDescription": "Highlights",
+        "topIdeasLayoutShowCardAction": "ShowCard",
+        "topIdeasLayoutGetTopPostsAction": "GetTopPosts",
+        "topIdeasLayoutTitle": "LatestIdeas",
+        "topIdeasLayoutDescription": "LatestIdeas",
+        "bestContributorLayoutShowContributorAction": "ShowContributor",
+        "bestContributorLayoutGetBestContributorAction": "GetBestContributor",
+        "bestContributorLayoutTitle": "BestContributor",
+        "bestContributorLayoutDescription": "BestContributor",
+        "highlightsConcernTitle": "Highlights"
+    },
+
+    "notifications": {
+        "mainLayoutShowAction": "Show",
+        "mainLayoutTitle": "Notifications",
+        "mainLayoutDescription": "Notifications",
+        "notificationsConcernTitle": "Notifications"
+    },
+
+    "posts": {
+        "postDetailsLayoutGetPostDetailsAction": "GetPostDetails",
+        "postDetailsLayoutCheckPostStatusAction": "CheckPostStatus",
+        "postDetailsLayoutToEditPostAction": "ToEditPost",
+        "postDetailsLayoutTitle": "PostDetails",
+        "postDetailsLayoutDescription": "PostDetails",
+        "topPostsLayoutToPostDetailsAction": "ToPostDetails",
+        "topPostsLayoutHorizontalScrollAction": "HorizontalScroll",
+        "topPostsLayoutGetTopPostsAction": "GetTopPosts",
+        "topPostsLayoutTitle": "Topposts",
+        "topPostsLayoutDescription": "Topposts",
+        "mainLayoutToChooseNewPostCategoryAction": "ToChooseNewPostCategory",
+        "mainLayoutToPostDetailsAction": "ToPostDetails",
+        "mainLayoutGetLatestPostsAction": "GetLatestPosts",
+        "mainLayoutDeletePostAction": "DeletePost",
+        "mainLayoutTitle": "Posts",
+        "mainLayoutDescription": "Posts",
+        "chooseNewPostCategoryLayoutToCreateIdeaAction": "ToCreateIdea",
+        "chooseNewPostCategoryLayoutTitle": "ChooseNewPostCategory",
+        "chooseNewPostCategoryLayoutDescription": "ChooseNewPostCategory",
+        "editPostLayoutEditPostAction": "EditPost",
+        "editPostLayoutTitle": "EditPost",
+        "editPostLayoutDescription": "EditPost",
+        "postsConcernTitle": "Posts"
+    },
+
+    "login": {
+        "mainLayoutGetUserAction": "GetUser",
+        "mainLayoutToTabsAction": "ToTabs",
+        "mainLayoutTitle": "Login",
+        "mainLayoutDescription": "Login",
+        "forgotPasswordLayoutCheckEmailAction": "CheckEmail",
+        "forgotPasswordLayoutSendMailAction": "SendMail",
+        "forgotPasswordLayoutTitle": "ForgotPassword",
+        "forgotPasswordLayoutDescription": "ForgotPassword",
+        "resetPasswordLayoutUpdateUserAction": "UpdateUser",
+        "resetPasswordLayoutTitle": "ResetPassword",
+        "resetPasswordLayoutDescription": "ResetPassword",
+        "loginConcernTitle": "Login"
+    },
+
+    "tabs": {
+        "mainLayoutCountUnreadNotificationsAction": "CountUnreadNotifications",
+        "mainLayoutTitle": "Tabs",
+        "mainLayoutDescription": "Tabs",
+        "tabsConcernTitle": "Tabs"
+    },
+
+    "settings": {
+        "mainLayoutToNotificationsAction": "ToNotifications",
+        "mainLayoutToEmailNotificationsAction": "ToEmailNotifications",
+        "mainLayoutToApplicationSettingsAction": "ToApplicationSettings",
+        "mainLayoutTitle": "Setting",
+        "mainLayoutDescription": "Setting",
+        "notificationsLayoutChangeAction": "Change",
+        "notificationsLayoutTitle": "Notifications",
+        "notificationsLayoutDescription": "Notifications",
+        "emailNotificationsLayoutChangeAction": "Change",
+        "emailNotificationsLayoutTitle": "EmailNotifications",
+        "emailNotificationsLayoutDescription": "EmailNotifications",
+        "applicationSettingsLayoutChangeAction": "Change",
+        "applicationSettingsLayoutTitle": "ApplicationSettings",
+        "applicationSettingsLayoutDescription": "ApplicationSettings",
+        "settingsConcernTitle": "Settings"
+    },
+    "applicationSmallTitle": "MeteoMeter",
+    "applicationTitle": "MeteoMeter"
+}
